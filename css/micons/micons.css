@@ -717,4 +717,15 @@
 .icon-zoom-out:before {
     content: "\e9e6";
 }
-
+.icon-trophy:before {
+    content: "\e9cb";
+}
+.icon-micrphone:before {
+    content: "\e979";
+}
+.icon-music:before {
+    content: "\e982";
+}
+.icon-book:before {
+    content: "\e916";
+}
